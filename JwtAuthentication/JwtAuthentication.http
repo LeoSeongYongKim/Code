@@ -1,0 +1,6 @@
+@JwtAuthentication_HostAddress = http://localhost:5169
+
+GET {{JwtAuthentication_HostAddress}}/
+Accept: application/json
+
+###
